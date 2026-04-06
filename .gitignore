@@ -1,0 +1,3 @@
+data/*.db
+admin/*.txt
+__pycache__/
